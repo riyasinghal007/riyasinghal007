@@ -1,43 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Riya Singhal
-=====================================================================================================================================
+# Hi 👋, I'm Riya Singhal
 
-ECE Graduate | VLSI Design & Verification Enthusiast | FPGA & Embedded Systems
-------------------------------------------------------------------------------
+### ECE Graduate | VLSI Design & Verification Enthusiast | FPGA & Embedded Systems
 
+🎓 Electronics & Communication Engineering Graduate from NIT Hamirpur (CGPA: 8.23)
 
-🔭 I’m currently working on **Memory Verification, FIFO Verification, RTL Design, and SystemVerilog Projects**
+💡 Passionate about Digital Design, RTL Verification, FPGA Development, and Embedded Systems. I enjoy building hardware-centric solutions and exploring how digital systems are designed, verified, and implemented.
 
-🌱 I’m currently learning **UVM, CDC Verification, Functional Coverage, and ASIC Design Flow**
+🚀 Currently focused on RTL Design, SystemVerilog Verification, ASIC Design Flow, and FPGA Prototyping.
 
-👯 I’m looking to collaborate on **Design Verification, FPGA, and Digital Design Projects**
+---
 
-💬 Ask me about **Verilog, SystemVerilog, RTL Design, FPGA Development, and Embedded Systems**
+# 💫 About Me
 
-📍 Based in **Agra, Uttar Pradesh, India**
+- 🔭 I’m currently working on **Memory Verification, FIFO Verification, RTL Design, and SystemVerilog Projects**
+- 🌱 I’m currently learning **UVM, CDC Verification, Functional Coverage, and ASIC Design Flow**
+- 👯 I’m looking to collaborate on **Design Verification, FPGA, and Digital Design Projects**
+- 💬 Ask me about **Verilog, SystemVerilog, RTL Design, FPGA Development, and Embedded Systems**
+- 📍 Based in **Agra, Uttar Pradesh, India**
+- 📫 Reach me at **singhalriya007@gmail.com**
+- ⚡ Fun fact: **My favorite bugs are the ones caught by assertions before simulation ends.**
 
-📫 Reach me at **singhalriya007@gmail.com**
+---
 
-⚡ Fun fact: **My favorite bugs are the ones caught by assertions before simulation ends.**
+## 🌐 Connect With Me
 
-* 🌍  I'm based in Agra, Uttar Pradesh, India
-* ✉️  You can contact me at [singhalriya007@gmail.com](mailto:singhalriya007@gmail.com)
-* 👥  I'm looking to collaborate on VLSI Design, Design Verification, FPGA, Embedded Systems, and Semiconductor Opportunities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singhalriya007)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhalriya007@gmail.com)
 
- 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+---
 
-### Socials
+## 🚀 Featured Projects
 
-<p align="left"> <a href="https://www.github.com/riyasinghal007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/riyasinghal007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+### 🔹 Single Port RAM Verification
+SystemVerilog-based verification environment featuring assertions, functional coverage, scoreboard checking, and transaction-based verification.
 
-<b>My GitHub Stats</b>
+### 🔹 Dual Clock FIFO Verification
+Verification of asynchronous FIFO functionality with separate read/write clocks, data integrity checks, and FIFO status monitoring.
 
-<a href="http://www.github.com/riyasinghal007"><img src="https://github-readme-stats.vercel.app/api?username=riyasinghal007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="riyasinghal007's GitHub stats" /></a>
+### 🔹 FPGA & Embedded Projects
+Hands-on projects involving FPGA development, embedded systems, robotics, and hardware-software co-design.
 
-<a href="http://www.github.com/riyasinghal007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riyasinghal007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/riyasinghal007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 💻 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### HDL & Verification
+
+![Verilog](https://img.shields.io/badge/Verilog-blue?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge)
+![RTL Design](https://img.shields.io/badge/RTL%20Design-green?style=for-the-badge)
+![Design Verification](https://img.shields.io/badge/Design%20Verification-red?style=for-the-badge)
+![SVA](https://img.shields.io/badge/SVA-Assertion%20Based%20Verification-purple?style=for-the-badge)
+
+### Programming
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+
+### Hardware & Embedded
+
+![FPGA](https://img.shields.io/badge/FPGA-FFB000?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-009688?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-0088CC?style=for-the-badge)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-0066CC?style=for-the-badge)
+
+---
+
+## 📈 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=riyasinghal007&label=Profile%20Views&color=blueviolet&style=flat)
+
+---
+
+### ✨ Quote
+
+> "Learning hardware one waveform at a time."
