@@ -4,14 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ECE Graduate | VLSI Design & Verification Enthusiast | FPGA & Embedded Systems
 ------------------------------------------------------------------------------
 
-\* 🔭 I’m currently working on \*\*Memory Verification, FIFO Verification, and RTL Design Projects\*\*
-\* 🌱 I’m currently learning \*\*UVM, CDC Verification, and ASIC Design Flow\*\*
-\* 👯 I’m looking to collaborate on \*\*Design Verification and FPGA Projects\*\*
-\* 🤔 I’m looking for help with \*\*Industry-standard Verification Methodologies\*\*
-\* 💬 Ask me about \*\*Verilog, SystemVerilog, RTL Design, and FPGA Development\*\*
-\* 📫 How to reach me: \*\*\[singhalriya007@gmail.com\]\*\*
-\* 😄 Pronouns: \*\*She/Her\*\*
-\* ⚡ Fun fact: \*\*My favorite bugs are the ones caught by assertions before simulation ends.\*\*
+
+🔭 I’m currently working on **Memory Verification, FIFO Verification, RTL Design, and SystemVerilog Projects**
+
+🌱 I’m currently learning **UVM, CDC Verification, Functional Coverage, and ASIC Design Flow**
+
+👯 I’m looking to collaborate on **Design Verification, FPGA, and Digital Design Projects**
+
+💬 Ask me about **Verilog, SystemVerilog, RTL Design, FPGA Development, and Embedded Systems**
+
+📍 Based in **Agra, Uttar Pradesh, India**
+
+📫 Reach me at **singhalriya007@gmail.com**
+
+⚡ Fun fact: **My favorite bugs are the ones caught by assertions before simulation ends.**
 
 * 🌍  I'm based in Agra, Uttar Pradesh, India
 * ✉️  You can contact me at [singhalriya007@gmail.com](mailto:singhalriya007@gmail.com)
