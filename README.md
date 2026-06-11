@@ -14,7 +14,7 @@ ECE Graduate | VLSI Design & Verification Enthusiast | FPGA & Embedded Systems
 
 \* 💬 Ask me about \*\*Verilog, SystemVerilog, RTL Design, and FPGA Development\*\*
 
-\* 📫 How to reach me: \*\*\[singhalriya007@gmail.com\](mailto:singhalriya007@gmail.com)\*\*
+\* 📫 How to reach me: \*\*\[singhalriya007@gmail.com\]\*\*
 
 \* 😄 Pronouns: \*\*She/Her\*\*
 
