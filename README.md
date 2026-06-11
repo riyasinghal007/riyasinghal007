@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ECE Graduate | VLSI Design & Verification Enthusiast | FPGA & Embedded Systems
 ------------------------------------------------------------------------------
 
-\* 🔭 I’m currently working on \*\*Memory Verification, FIFO Verification, and RTL Design Projects\*\
+\* 🔭 I’m currently working on \*\*Memory Verification, FIFO Verification, and RTL Design Projects\*\*
 \* 🌱 I’m currently learning \*\*UVM, CDC Verification, and ASIC Design Flow\*\*
 \* 👯 I’m looking to collaborate on \*\*Design Verification and FPGA Projects\*\*
 \* 🤔 I’m looking for help with \*\*Industry-standard Verification Methodologies\*\*
