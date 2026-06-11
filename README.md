@@ -1,42 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Riya Singhal
-=====================================================================================================================================
+# 💫 About Me:
+* 🔭 I’m currently working on **Memory Verification, FIFO Verification, and RTL Design Projects**<br>* 🌱 I’m currently learning **UVM, CDC Verification, and ASIC Design Flow**<br>* 👯 I’m looking to collaborate on **Design Verification and FPGA Projects**<br>* 🤔 I’m looking for help with **Industry-standard Verification Methodologies**<br>* 💬 Ask me about **Verilog, SystemVerilog, RTL Design, and FPGA Development**<br>* 📫 How to reach me: **[singhalriya007@gmail.com]**<br>* 😄 Pronouns: **She/Her**<br>* ⚡ Fun fact: **My favorite bugs are the ones caught by assertions before simulation ends.**<br>
 
-ECE Graduate | VLSI Design & Verification Enthusiast | FPGA & Embedded Systems
-------------------------------------------------------------------------------
 
-\* 🔭 I’m currently working on \*\*Memory Verification, FIFO Verification, and RTL Design Projects\*\*
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singhalriya007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhalriya007@gmail.com) 
 
-\* 🌱 I’m currently learning \*\*UVM, CDC Verification, and ASIC Design Flow\*\*
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=singhalriya007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=singhalriya007&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=singhalriya007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-\* 👯 I’m looking to collaborate on \*\*Design Verification and FPGA Projects\*\*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-\* 🤔 I’m looking for help with \*\*Industry-standard Verification Methodologies\*\*
+---
+[![](https://komarev.com/ghpvc/?username=singhalriya007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-\* 💬 Ask me about \*\*Verilog, SystemVerilog, RTL Design, and FPGA Development\*\*
-
-\* 📫 How to reach me: \*\*\[singhalriya007@gmail.com\]\*\*
-
-\* 😄 Pronouns: \*\*She/Her\*\*
-
-\* ⚡ Fun fact: \*\*My favorite bugs are the ones caught by assertions before simulation ends.\*\*
-
-* 🌍  I'm based in Agra, Uttar Pradesh, India
-* ✉️  You can contact me at [singhalriya007@gmail.com](mailto:singhalriya007@gmail.com)
-* 👥  I'm looking to collaborate on VLSI Design, Design Verification, FPGA, Embedded Systems, and Semiconductor Opportunities
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" alt="Perl" title="Perl" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/riyasinghal007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/riyasinghal007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/riyasinghal007"><img src="https://github-readme-stats.vercel.app/api?username=riyasinghal007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="riyasinghal007's GitHub stats" /></a>
-
-<a href="http://www.github.com/riyasinghal007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riyasinghal007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/riyasinghal007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
