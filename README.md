@@ -41,7 +41,14 @@ Verification of asynchronous FIFO functionality with separate read/write clocks,
 Hands-on projects involving FPGA development, embedded systems, robotics, and hardware-software co-design.
 
 ---
+## 📊 GitHub Stats
 
+![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyasinghal007&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyasinghal007&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal007&layout=compact&theme=radical)
+---
 ## 💻 Tech Stack
 
 ### HDL & Verification
