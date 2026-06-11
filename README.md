@@ -12,13 +12,15 @@
 
 # 💫 About Me
 
-- 🔭 I’m currently working on **Memory Verification, FIFO Verification, RTL Design, and SystemVerilog Projects**
-- 🌱 I’m currently learning **UVM, CDC Verification, Functional Coverage, and ASIC Design Flow**
-- 👯 I’m looking to collaborate on **Design Verification, FPGA, and Digital Design Projects**
-- 💬 Ask me about **Verilog, SystemVerilog, RTL Design, FPGA Development, and Embedded Systems**
-- 📍 Based in **Agra, Uttar Pradesh, India**
-- 📫 Reach me at **singhalriya007@gmail.com**
+- 🔭 I’m currently working on **Memory Verification, FIFO Verification, and RTL Design Projects**
+- 🌱 I’m currently learning **UVM, CDC Verification, and ASIC Design Flow**
+- 👯 I’m looking to collaborate on **Design Verification and FPGA Projects**
+- 🤔 I’m looking for help with **Industry-Standard Verification Methodologies**
+- 💬 Ask me about **Verilog, SystemVerilog, RTL Design, and FPGA Development**
+- 📫 How to reach me: **singhalriya007@gmail.com**
+- 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **My favorite bugs are the ones caught by assertions before simulation ends.**
+
 
 ---
 
@@ -26,19 +28,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singhalriya007)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhalriya007@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Single Port RAM Verification
-SystemVerilog-based verification environment featuring assertions, functional coverage, scoreboard checking, and transaction-based verification.
-
-### 🔹 Dual Clock FIFO Verification
-Verification of asynchronous FIFO functionality with separate read/write clocks, data integrity checks, and FIFO status monitoring.
-
-### 🔹 FPGA & Embedded Projects
-Hands-on projects involving FPGA development, embedded systems, robotics, and hardware-software co-design.
 
 ---
 ## 📊 GitHub Stats
@@ -88,6 +77,6 @@ Hands-on projects involving FPGA development, embedded systems, robotics, and ha
 
 ---
 
-### ✨ Quote
+### ✍️ Random Dev Quote
 
-> "Learning hardware one waveform at a time."
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
