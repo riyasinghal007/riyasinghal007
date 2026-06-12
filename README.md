@@ -1,375 +1,401 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,19,20,24,30&text=Riya%20Singhal&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Electronics%20%7C%20VLSI%20%7C%20RTL%20Design%20%7C%20Verification%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,19,20,24,30&text=Riya%20Singhal&fontSize=60&fontAlignY=38&animation=fadeIn&desc=RTL%20Design%20%7C%20FPGA%20Development%20%7C%20SystemVerilog%20%7C%20VLSI&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Electronics+%26+Communication+Engineer;RTL+Design+%7C+SystemVerilog+%7C+UVM;FPGA+Development+%7C+Digital+Design;Embedded+Systems+Engineer;Building+Reliable+Hardware+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Electronics+%26+Communication+Engineer;RTL+Design+Engineer+%7C+FPGA+Developer;SystemVerilog+%7C+Verification+Engineer;Embedded+Systems+Enthusiast;Building+Reliable+Digital+Systems"/>
 
 <br/>
 
-![](https://img.shields.io/badge/NIT_Hamirpur-B.Tech_ECE-6A5ACD?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.23-7B68EE?style=for-the-badge)
-![](https://img.shields.io/badge/Graduation-2026-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/🎓_NIT_Hamirpur-B.Tech_ECE-6A5ACD?style=for-the-badge)
+![](https://img.shields.io/badge/📊_CGPA-8.23-7B68EE?style=for-the-badge)
+![](https://img.shields.io/badge/🎯_Graduation-2026-8A2BE2?style=for-the-badge)
 
-![](https://img.shields.io/badge/Location-Uttar_Pradesh,_India-4B0082?style=for-the-badge)
-
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+![](https://img.shields.io/badge/📍_India-Uttar_Pradesh-4B0082?style=for-the-badge)
 
 <a href="mailto:singhalriya007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/💻_GitHub-Profile-181717?style=for-the-badge"/>
+</a>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-# About Me
+# 👋 About Me
 
-I am an Electronics and Communication Engineering graduate from **National Institute of Technology Hamirpur** with a strong interest in **VLSI Design, RTL Development, Functional Verification, FPGA Prototyping, Embedded Systems, and Digital Hardware Engineering**. :contentReference[oaicite:0]{index=0}
+🎓 Electronics & Communication Engineering Graduate from **National Institute of Technology Hamirpur**
 
-My experience spans across:
+⚡ Passionate about **RTL Design, Functional Verification, FPGA Development, Digital Design and Embedded Systems**
 
-- RTL Design using Verilog/SystemVerilog
-- Functional Verification and Testbench Development
-- FPGA Design using Xilinx Vivado
-- Embedded Systems Development
-- Avionics Hardware Testing and Validation
-- Digital System Design
-- Hardware-Software Integration
+🔬 Interested in **VLSI Design, ASIC Verification, UVM, Static Timing Analysis and Semiconductor Technologies**
 
-I enjoy transforming hardware specifications into reliable and verifiable digital systems while continuously learning advanced verification methodologies and modern semiconductor design practices.
+💡 Experienced in developing digital hardware systems, verification environments and FPGA-based communication interfaces
 
-### Open To
-
-- RTL Design Engineer
-- FPGA Engineer
-- Verification Engineer
-- Digital Design Engineer
-- ASIC Design Engineer
-- Embedded Systems Engineer
-- VLSI Engineer
+🚀 Always eager to solve challenging engineering problems and build reliable digital systems
 
 ---
 
-# Tech Stack
+## 🌟 Open To
 
-## Languages
+- 💻 RTL Design Engineer
+- 🔍 Verification Engineer
+- ⚡ FPGA Engineer
+- 🧠 ASIC Design Engineer
+- 🔧 Digital Design Engineer
+- 🚀 Embedded Systems Engineer
 
-<p align="center">
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,python"/>
 
-</p>
+</div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Verilog-RTL_Design-8A2BE2?style=for-the-badge)
-![](https://img.shields.io/badge/SystemVerilog-Verification-7B68EE?style=for-the-badge)
-![](https://img.shields.io/badge/UVM-Methodology-6A5ACD?style=for-the-badge)
-![](https://img.shields.io/badge/Perl-Automation-4B0082?style=for-the-badge)
+![](https://img.shields.io/badge/SystemVerilog-Verification-purple?style=for-the-badge)
+
+![](https://img.shields.io/badge/Verilog-RTL_Design-blueviolet?style=for-the-badge)
+
+![](https://img.shields.io/badge/UVM-Methodology-indigo?style=for-the-badge)
+
+![](https://img.shields.io/badge/Perl-Automation-darkviolet?style=for-the-badge)
 
 </div>
 
-## FPGA & Digital Design
+---
 
-<p align="center">
+## ⚙️ FPGA & Design Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,vscode"/>
 
-</p>
+</div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Xilinx-Vivado-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/Xilinx-Vivado-purple?style=for-the-badge)
+
 ![](https://img.shields.io/badge/QuestaSim-Verification-indigo?style=for-the-badge)
-![](https://img.shields.io/badge/FPGA-Prototyping-purple?style=for-the-badge)
-![](https://img.shields.io/badge/RTL-Design-darkviolet?style=for-the-badge)
+
+![](https://img.shields.io/badge/FPGA-Prototyping-blueviolet?style=for-the-badge)
+
+![](https://img.shields.io/badge/RTL-Development-darkviolet?style=for-the-badge)
 
 </div>
 
 ---
 
-# Hardware / Verification Expertise
+# 🧠 Hardware & Verification Expertise
 
-| Domain | Proficiency | Details |
-|----------|------------|---------|
+| 🚀 Domain | ⭐ Level | 📋 Details |
+|------------|------------|------------|
 | RTL Design | Advanced | Verilog, SystemVerilog |
 | Functional Verification | Advanced | Assertions, Coverage, Testbenches |
-| FPGA Design | Advanced | Vivado, Basys 3, Artix-7 |
+| FPGA Design | Advanced | Vivado, Basys 3 |
 | Digital Electronics | Advanced | Sequential & Combinational Logic |
-| Embedded Systems | Intermediate | Hardware Integration |
+| Embedded Systems | Intermediate | Hardware-Software Integration |
 | Communication Protocols | Intermediate | UART, RS-232, RS-422, MIL-STD-1553B |
 | Hardware Validation | Intermediate | NI PXIe Testing |
 | ASIC Verification | Intermediate | UVM Fundamentals |
+| Computer Architecture | Intermediate | Digital Systems |
+| Timing Analysis | Learning | STA Concepts |
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
 <details>
-<summary><b>Single-Port RAM Verification Environment</b></summary>
+<summary><b>🧠 Single-Port RAM Verification Environment</b></summary>
 
-### Overview
+---
 
-Developed a SystemVerilog-based verification environment to validate memory read and write operations using assertions, test cases, and functional coverage. :contentReference[oaicite:1]{index=1}
+### 📖 Overview
+
+Developed a SystemVerilog-based verification environment to validate memory read and write operations using assertions, directed testcases and functional coverage.
+
+### 📊 Project Metrics
 
 | Category | Details |
-|----------|---------|
-| Stack | SystemVerilog, QuestaSim |
-| Scale | Memory Verification |
-| Performance | Functional Validation |
-| Security | Assertion-Based Checking |
-| Impact | Improved Verification Reliability |
-| Repository | Add Repository Link |
+|-----------|---------|
+| 🛠️ Stack | SystemVerilog, QuestaSim |
+| 📈 Scale | Memory Verification |
+| ⚡ Performance | Functional Validation |
+| 🔒 Security | Assertion-Based Checking |
+| 🎯 Impact | Improved Verification Reliability |
+| 📂 Repository | Add GitHub Link |
 
-#### Highlights
+### 🚀 Highlights
 
 - Developed reusable verification environment
 - Implemented assertions for protocol checking
-- Measured functional coverage
-- Verified memory correctness
+- Added functional coverage metrics
+- Automated memory verification
+- Verified read/write correctness
 
 </details>
 
 ---
 
 <details>
-<summary><b>Asynchronous FIFO Design</b></summary>
+<summary><b>⚡ Asynchronous FIFO Design</b></summary>
 
-### Overview
+---
 
-Designed an asynchronous FIFO using Gray-code synchronization for reliable data transfer between independent clock domains. :contentReference[oaicite:2]{index=2}
+### 📖 Overview
+
+Designed and verified an asynchronous FIFO using Gray-code synchronization to ensure reliable communication between independent clock domains while mitigating metastability issues.
+
+### 📊 Project Metrics
 
 | Category | Details |
-|----------|---------|
-| Stack | Verilog, Vivado |
-| Scale | FPGA Design |
-| Performance | CDC Safe Design |
-| Security | Metastability Mitigation |
-| Impact | Reliable Multi-Clock Communication |
-| Repository | Add Repository Link |
+|-----------|---------|
+| 🛠️ Stack | Verilog, Vivado |
+| 📈 Scale | FPGA Design |
+| ⚡ Performance | Multi-Clock Domain Operation |
+| 🔒 Security | CDC Safe Architecture |
+| 🎯 Impact | Reliable Data Transfer |
+| 📂 Repository | Add GitHub Link |
 
-#### Highlights
+### 🚀 Highlights
 
-- Implemented Gray-code synchronization
+- Gray-code synchronization
 - Full and Empty detection logic
-- Independent clock operation
+- Independent read/write clocks
 - Randomized verification environment
+- Metastability mitigation
 
 </details>
 
 ---
 
 <details>
-<summary><b>UART Transmitter & Receiver on FPGA</b></summary>
+<summary><b>📡 UART Transmitter & Receiver on Basys 3 FPGA</b></summary>
 
-### Overview
+---
 
-Implemented UART communication modules on the Basys 3 FPGA platform supporting 9600 baud communication and real-time hardware validation. :contentReference[oaicite:3]{index=3}
+### 📖 Overview
+
+Designed UART Transmitter and Receiver modules supporting 9600 baud communication and implemented complete FPGA validation using Tera Term and hardware testing.
+
+### 📊 Project Metrics
 
 | Category | Details |
-|----------|---------|
-| Stack | Verilog, Vivado, Basys 3 |
-| Scale | FPGA Communication System |
-| Performance | Real-Time Communication |
-| Security | Debounced Input Control |
-| Impact | Reliable Serial Communication |
-| Repository | Add Repository Link |
+|-----------|---------|
+| 🛠️ Stack | Verilog, Vivado, Basys 3 |
+| 📈 Scale | Communication System |
+| ⚡ Performance | Real-Time UART Communication |
+| 🔒 Security | Debounced Inputs |
+| 🎯 Impact | Reliable Serial Interface |
+| 📂 Repository | Add GitHub Link |
 
-#### Highlights
+### 🚀 Highlights
 
-- UART TX/RX architecture
-- Debounce circuitry implementation
-- ASCII-to-LED visualization
-- Tera Term validation
+- UART TX/RX implementation
+- Debounced push-button interface
+- ASCII data visualization using LEDs
+- Hardware validation on FPGA
+- Real-time communication testing
 
 </details>
 
 ---
 
-# Experience
+# 💼 Experience
 
-## Hardware Intern | DELOPT
+## 🚀 Hardware Intern | DELOPT
 
-**Jan 2026 – Jun 2026**  
-**Bengaluru, Karnataka** :contentReference[oaicite:4]{index=4}
+📅 Jan 2026 – Jun 2026
 
-Worked on avionics hardware validation, communication system testing, and reverse engineering documentation for defence-grade systems.
+📍 Bengaluru, Karnataka
 
-### Scope of Work
+### 🎯 Responsibilities
 
-- Performed ECFM-C I-Level Avionics Test System validation
-- Conducted NI PXIe-based testing
-- Verified 28V discrete I/O systems
-- Worked with MIL-STD-1553B communication interfaces
-- Analyzed RS-232 and RS-422 communication channels
+- Performed validation of ECFM-C I-Level Avionics Test System
+- Conducted NI PXIe based testing and debugging
+- Verified 28V discrete I/O interfaces
+- Worked with MIL-STD-1553B communication systems
+- Tested RS-232 and RS-422 communication channels
+- Performed sensor simulation analysis
 - Reverse engineered MiG-29 PSLS Interface Card
 - Created technical hardware documentation
 
-### Skills
+### 🛠️ Skills Used
 
-![](https://img.shields.io/badge/NI_PXIe-Testing-blueviolet?style=flat-square)
-![](https://img.shields.io/badge/MIL_STD_1553B-Avionics-indigo?style=flat-square)
-![](https://img.shields.io/badge/RS_422-Communication-purple?style=flat-square)
-![](https://img.shields.io/badge/RS_232-Testing-darkviolet?style=flat-square)
+![](https://img.shields.io/badge/NI_PXIe-Testing-purple?style=flat-square)
+![](https://img.shields.io/badge/MIL_STD_1553B-Avionics-blueviolet?style=flat-square)
+![](https://img.shields.io/badge/RS422-Communication-indigo?style=flat-square)
+![](https://img.shields.io/badge/RS232-Testing-darkviolet?style=flat-square)
 ![](https://img.shields.io/badge/Hardware_Validation-Electronics-6A5ACD?style=flat-square)
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|------------|---------|
-| Research Publication | Published research paper in Computer & Electrical Engineering (ScienceDirect) |
-| Nimbus 2024 Winner | Secured 1st Position in Technical Fest |
-| Robotics Development | Developed AI Assistive Robotic Arm, Spider Bot & Haptic Glove |
+| 🏅 Recognition | 📋 Details |
+|----------------|------------|
+| 📄 Research Publication | Published research paper in ScienceDirect Journal |
+| 🥇 Nimbus 2024 Winner | Secured 1st Position in Technical Fest |
+| 🤖 Robotics Developer | Built AI Robotic Arm, Spider Bot & Haptic Glove |
+| 🎓 Academic Excellence | CGPA 8.23 at NIT Hamirpur |
 
 </div>
 
 ---
 
-# Certifications
+# 📜 Certifications & Learning
 
-## NPTEL
+### 🎓 Core Electronics
 
-![](https://img.shields.io/badge/NPTEL-Digital_Electronics-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/Digital_Electronics-NPTEL-purple?style=for-the-badge)
 
-## FPGA & VLSI Learning
+![](https://img.shields.io/badge/Computer_Architecture-Course-blueviolet?style=for-the-badge)
 
-![](https://img.shields.io/badge/RTL_Design-Verilog-purple?style=for-the-badge)
+![](https://img.shields.io/badge/CMOS-VLSI-indigo?style=for-the-badge)
 
-![](https://img.shields.io/badge/SystemVerilog-Verification-indigo?style=for-the-badge)
+### 🔬 VLSI & FPGA
 
-![](https://img.shields.io/badge/FPGA-Vivado-darkviolet?style=for-the-badge)
+![](https://img.shields.io/badge/RTL_Design-Verilog-darkviolet?style=for-the-badge)
+
+![](https://img.shields.io/badge/SystemVerilog-Verification-purple?style=for-the-badge)
+
+![](https://img.shields.io/badge/FPGA-Vivado-blueviolet?style=for-the-badge)
+
+![](https://img.shields.io/badge/UVM-Learning-indigo?style=for-the-badge)
 
 ---
 
-# Coding Profiles
+# 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/🧩_LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/)
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
+[![GeeksforGeeks](https://img.shields.io/badge/📚_GeeksforGeeks-Profile-green?style=for-the-badge)](https://www.geeksforgeeks.org/)
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
-</a>
+[![HackerRank](https://img.shields.io/badge/⚡_HackerRank-Profile-brightgreen?style=for-the-badge)](https://www.hackerrank.com/)
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
-</a>
+[![CodeChef](https://img.shields.io/badge/🔥_CodeChef-Profile-brown?style=for-the-badge)](https://www.codechef.com/)
 
 </div>
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
-  - SystemVerilog Advanced Verification
+  - Advanced SystemVerilog
   - UVM Methodology
-  - FPGA Architecture
-  - ASIC Design Flow
   - Static Timing Analysis
+  - ASIC Design Flow
+  - FPGA Architecture
 
 Building:
   - Verification Projects
-  - FPGA-Based Systems
+  - FPGA Communication Systems
   - RTL Design Portfolio
 
 Exploring:
-  - ASIC Verification
+  - CDC Verification
   - Digital IC Design
-  - VLSI Frontend Flow
-  - Advanced CDC Techniques
+  - Semiconductor Workflows
+  - Low Power Design
 
 Open_To:
-  - RTL Design Engineer Roles
-  - FPGA Engineer Roles
-  - Verification Engineer Roles
-  - Semiconductor Industry Opportunities
+  - RTL Design Engineer
+  - Verification Engineer
+  - FPGA Engineer
+  - ASIC Design Engineer
+  - Digital Design Engineer
 ```
 
 ---
 
-# Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:singhalriya007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📧_Gmail-Contact-EA4335?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/💻_GitHub-Profile-181717?style=for-the-badge"/>
 </a>
 
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-purple?style=for-the-badge"/>
 </a>
 
 </div>
@@ -378,9 +404,10 @@ Open_To:
 
 <div align="center">
 
-### "Engineering reliable digital systems through design, verification, and innovation."
+### ⚡ "Designing reliable digital systems, verifying every possibility, and engineering the future one logic gate at a time."
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,19,20,24,30"/>
+
 
