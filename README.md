@@ -282,11 +282,11 @@ Worked on avionics hardware validation, communication system testing, and revers
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyasinghal007&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal007&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyasinghal007&theme=tokyonight"/>
 
 </div>
 
@@ -296,7 +296,7 @@ Worked on avionics hardware validation, communication system testing, and revers
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=riyasinghal007&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
@@ -306,7 +306,7 @@ Worked on avionics hardware validation, communication system testing, and revers
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyasinghal007&theme=tokyo-night"/>
 
 </div>
 
@@ -316,7 +316,7 @@ Worked on avionics hardware validation, communication system testing, and revers
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/yourusername/riyasinghal007/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
