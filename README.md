@@ -316,7 +316,7 @@ Worked on avionics hardware validation, communication system testing, and revers
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/riyasinghal007/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/riyasinghal007/riyasinghal007/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
